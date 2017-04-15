@@ -9,14 +9,16 @@
   May 4 - May 18: Put the two aspects together and make the game function
   May 18 - June 4: Create multiple levels
   June 4 +: Add special effects
+  
 ## Must Have List
 - [ ] Start Screen/Insctruction Screen/Death Screen/Win Screen
 - [ ] Programming a block to move in a 3-D manner
 - [ ] Setting up the grid layout/gameboard
 - [ ] Combining the player block and gameboard into a simple but functioning game
-- [ ] Multiple levels
+- [ ] A few levels
 
 ## Nice to Have List
 - [ ] Sound effects
 - [ ] Extra special effects
+- [ ] More levels levels
 
