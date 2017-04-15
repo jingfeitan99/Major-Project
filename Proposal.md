@@ -5,9 +5,13 @@
   Sorry, the description may be a little confusing, but here's a link: http://www.coolmath-games.com/0-bloxorz 
 ## Timeline
   April 14 - April 27: Program the player block to move in a 3-D manner
+  
   April 27 - May 4: Create the grid/gameboard
+  
   May 4 - May 18: Put the two aspects together and make the game function
+  
   May 18 - June 4: Create multiple levels
+  
   June 4 +: Add special effects
   
 ## Must Have List
