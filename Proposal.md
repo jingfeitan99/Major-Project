@@ -20,5 +20,5 @@
 ## Nice to Have List
 - [ ] Sound effects
 - [ ] Extra special effects
-- [ ] More levels levels
+- [ ] More levels
 
